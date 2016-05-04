@@ -1,0 +1,9 @@
+KEY1: In container.zip strings
+KEY2: unzip container.zip, unzip tuenti.docx, inside docProps/core.xml
+KEY3: In tuenti.mp3 string
+KEY4: Extract png art from mp3, extract text from png using http://stackoverflow.com/questions/10454733/obtain-text-fields-from-a-png-file, text contains KEY4, another text contains "NextLevel: base 64 encoded string" 
+KEY5: In the pdf file properties -> why did it take me so long????? :D 
+KEY6: Decode the base64 string, save it as a file, it is a pdf with a video.mkv attachment - KEY6 is displayed when watching video
+KEY7: In video.mkv strings
+KEY8: video.mkv contains a uuencoded ramdisk.cpio.gz - decode it to a file, it contains KEY8
+KEY9: extracting ramdisk.cpio.gz one obtains LastLevel.txt.gpg which can be decrypted using the Passphrase inside ramdisk.cpio.gz

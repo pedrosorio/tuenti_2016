@@ -1,0 +1,3 @@
+http://www.animatez.co.uk/computers/zx-spectrum/screen-memory-layout/
+Use Fuse on the Mac to inspect the code and determine that it is writing something to screen and then replacing all colors with black.
+POKE a RET (201) before changing colors to black. Problem solved!
